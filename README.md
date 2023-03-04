@@ -19,7 +19,7 @@ Click the code button to copy the repository and then type
 ```
 git clone https://github.com/c-poteat/CSV-Editor.git
 ```
-in your favorite terminal program.
+in your favorite terminal editor.
 
 ## Executing program
 The program is ran using PowerShell within VSCode editor.
