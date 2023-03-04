@@ -1,6 +1,6 @@
 # CSV-Editor
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgxZGNiZTMzOGI3OWEwYmE3NjgwMWM5NjYyMDU4NDFiNDkyMWJjYiZjdD1n/dXCJBfobvgJRuSnSJg/giphy.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgxZGNiZTMzOGI3OWEwYmE3NjgwMWM5NjYyMDU4NDFiNDkyMWJjYiZjdD1n/dXCJBfobvgJRuSnSJg/giphy.gif" width="1000" height="400" />
 
 
 ## Description
