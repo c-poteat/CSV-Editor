@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgxZGNiZTMzOGI3OWEwYmE3NjgwMWM5NjYyMDU4NDFiNDkyMWJjYiZjdD1n/dXCJBfobvgJRuSnSJg/giphy.gif" width="1000" height="400" />
 
-
 ## Description
 The purpose of this project is to understand how files can be modified under the .csv extension.
 
@@ -26,7 +25,7 @@ The program is ran using PowerShell within VSCode editor.
 
 ## Help
 
-Common issues with running scripts or understanding commands can be researching by navigating to https://learn.microsoft.com/en-us/powershell/
+Common issues with running scripts or understanding commands can be researching by navigating to [Microsoft-Powershell](https://learn.microsoft.com/en-us/powershell/)
 
 ## Authors
 Contributors names and contact info
