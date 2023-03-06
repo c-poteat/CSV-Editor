@@ -93,11 +93,11 @@ Add-Content -Path ./Outfile.csv -Value $entries
 }
 
 function main {
-    # csvedit
-    # addwithoutarray
-    # addwitharray
-    # addcolumnheader
-    #removezeros 
+    csvedit
+    addwithoutarray
+    addwitharray
+    addcolumnheader
+    removezeros 
     entryadd
 }
 main
